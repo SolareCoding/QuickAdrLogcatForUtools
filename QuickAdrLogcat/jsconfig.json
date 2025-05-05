@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "lib": ["ES2015", "DOM"],
+    "types": [
+      "utools-api-types"
+    ]
+  },
+  "include": [
+    "src/**/*.jsx",
+    "src/**/*.js"
+  ]
+}
